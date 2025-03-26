@@ -11,7 +11,7 @@ const containerStyle = {
 const center = { lat: 13.4050542, lng: 101.0392197 }; // Default center
 
 const GoogleMapComponentWithApi = () => {
-  const API_KEY = "AIzaSyAZFZJ-aWN73_ADHN0yZ2I6iQnEfFMamks"; // Replace with your actual API Key
+  const API_KEY = "AI-..."; // Replace with your actual API Key
   const [markers, setMarkers] = useState([]); // State for markers
 
   // Fetch markers from API
